@@ -1,4 +1,4 @@
-# Test
+# Test repo
 ### git is used for colab.. 
 ### "commit changes" checkpoint or snapshot at any particular time in a repo
 ### git is a distributed version control
@@ -19,5 +19,14 @@
 ### no merging front end nad backend
 ### node modules which shoud not be seen is added a .git ignore file
 ### ![image](https://user-images.githubusercontent.com/75175772/130321793-e53ee4d1-8b8b-4100-9ef5-91bb980782f8.png) this is what a .gitignore looks like
-### 
-
+### code division,share tasks and team responsibilities is why we use branching to avoid interfering
+### Conflicts base is the master branch, master is where we need to merge 
+### ![image](https://user-images.githubusercontent.com/75175772/130322017-4a3f3e32-35de-4e36-ae46-7f5a846bd0cc.png)--->1st line 
+### ![image](https://user-images.githubusercontent.com/75175772/130322021-4cd15684-7107-40bd-9282-d5a166d6c7ea.png)--->1st line 
+### resolve conflicts--> remove comments and add them and resolve conflicts
+### accept incoming change / accecpt current change 
+### codes which are public are called Open source
+### issues add lables #help wanted - some refactor your code
+### 2 wasys to get into startups
+### 1.)dsa (old way)
+### 2.)contribution / internship
