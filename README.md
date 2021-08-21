@@ -8,4 +8,5 @@
 ### https://github.com/
 ### braching is for changes 
 ### who branced what can be found under "Insights" and "Network"
+### $ git checkout My branch
 
