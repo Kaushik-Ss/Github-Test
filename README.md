@@ -46,3 +46,6 @@
 ### - Seaseon of KDE 
 ### - codeheat fossasia
 ### - outreach --> paid -->girls 
+# ppt -> [Git-Session-21Aug21.pptx](https://github.com/Kaushik-Ss/Test/files/7025569/Git-Session-21Aug21.pptx)
+Credits to Smile Gupta Engineer Razorpay for the session.
+ 
