@@ -11,3 +11,5 @@
 ### $ git checkout My branch
 ### new pull request --> compare to whihc loacation we need to merge 
 ### able to merge there is no merge conflict as we wrote to the new line no same line issue
+### ![image](https://user-images.githubusercontent.com/75175772/130321525-d4631d04-ca6b-4cbc-9672-250c9fc156a1.png)-->confilicting merge as we added 12 and 13 lines which was not present earlier.
+
