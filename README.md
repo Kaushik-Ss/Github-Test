@@ -28,5 +28,21 @@
 ### codes which are public are called Open source
 ### issues add lables #help wanted - some refactor your code
 ### 2 wasys to get into startups
-### 1.)dsa (old way)
-### 2.)contribution / internship
+### - dsa (old way)
+### - contribution / internship
+### documentations
+### - first fork
+### - then change
+### - then pr
+### How to find
+### - search first time issues 
+### - "good-first-issues" goto isues tab on left --> gothrough the issue 
+### open source programs 
+### - hacktober --> add pull requests 
+### - Anitab.org -->sep to oct --> anyone --> documentations
+### - GSOC paid -->
+### - girlscript soc 
+### - rail girls -->Non bin/women
+### - Seaseon of KDE 
+### - codeheat fossasia
+### - outreach --> paid -->girls 
