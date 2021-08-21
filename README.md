@@ -6,3 +6,6 @@
 ### https://git-scm.com/downloads
 ### ppt--> https://docs.google.com/presentation/d/1QZJIfkkMDq7OcKh0OAXVTuKZ5iiNDIsP-AZvMmT6zFA/edit#slide=id.g57df760187_0_1
 ### https://github.com/
+### braching is for changes 
+### who branced what can be found under "Insights" and "Network"
+
