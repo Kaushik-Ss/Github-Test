@@ -9,4 +9,5 @@
 ### braching is for changes 
 ### who branced what can be found under "Insights" and "Network"
 ### $ git checkout My branch
-
+### new pull request --> compare to whihc loacation we need to merge 
+### able to merge there is no merge conflict as we wrote to the new line no same line issue
